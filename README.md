@@ -1,3 +1,7 @@
+This project is a fork of the unmaintained repository [cfchou/serverless-python-individually](https://github.com/cfchou/serverless-python-individually)
+
+It fixes errors due to virtualenv en pip versions.
+
 # serverless-python-individually
 
 [![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
